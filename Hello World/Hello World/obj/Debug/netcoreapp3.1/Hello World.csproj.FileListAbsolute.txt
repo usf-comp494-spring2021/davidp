@@ -1,0 +1,13 @@
+E:\1school\Comp classes\Comp 494A C#\git\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.exe
+E:\1school\Comp classes\Comp 494A C#\git\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.deps.json
+E:\1school\Comp classes\Comp 494A C#\git\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.json
+E:\1school\Comp classes\Comp 494A C#\git\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.dev.json
+E:\1school\Comp classes\Comp 494A C#\git\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.dll
+E:\1school\Comp classes\Comp 494A C#\git\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.pdb
+E:\1school\Comp classes\Comp 494A C#\git\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.csprojAssemblyReference.cache
+E:\1school\Comp classes\Comp 494A C#\git\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+E:\1school\Comp classes\Comp 494A C#\git\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs
+E:\1school\Comp classes\Comp 494A C#\git\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+E:\1school\Comp classes\Comp 494A C#\git\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.dll
+E:\1school\Comp classes\Comp 494A C#\git\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.pdb
+E:\1school\Comp classes\Comp 494A C#\git\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache
