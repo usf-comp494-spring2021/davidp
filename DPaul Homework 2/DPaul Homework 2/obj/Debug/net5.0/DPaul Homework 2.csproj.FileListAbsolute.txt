@@ -1,0 +1,16 @@
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\bin\Debug\net5.0\DPaul Homework 2.exe
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\bin\Debug\net5.0\DPaul Homework 2.deps.json
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\bin\Debug\net5.0\DPaul Homework 2.runtimeconfig.json
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\bin\Debug\net5.0\DPaul Homework 2.runtimeconfig.dev.json
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\bin\Debug\net5.0\DPaul Homework 2.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\bin\Debug\net5.0\ref\DPaul Homework 2.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\bin\Debug\net5.0\DPaul Homework 2.pdb
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\obj\Debug\net5.0\DPaul Homework 2.csprojAssemblyReference.cache
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\obj\Debug\net5.0\DPaul Homework 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\obj\Debug\net5.0\DPaul Homework 2.AssemblyInfoInputs.cache
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\obj\Debug\net5.0\DPaul Homework 2.AssemblyInfo.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\obj\Debug\net5.0\DPaul Homework 2.csproj.CoreCompileInputs.cache
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\obj\Debug\net5.0\DPaul Homework 2.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\obj\Debug\net5.0\ref\DPaul Homework 2.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\obj\Debug\net5.0\DPaul Homework 2.pdb
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Homework 2\DPaul Homework 2\obj\Debug\net5.0\DPaul Homework 2.genruntimeconfig.cache
