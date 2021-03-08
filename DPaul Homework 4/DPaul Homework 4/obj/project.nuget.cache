@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LeZYP2Z1cVFVpt6ysz0o73aa86wej0v1EdZpmf5AJ/6mw3Cn7x99TDL5dX4mxbnGT7GbWwQo66QijCiybNDVLg==",
+  "success": true,
+  "projectFilePath": "E:\\1school\\Comp classes\\Comp 494A C#\\git\\DPaul Homework 4\\DPaul Homework 4\\DPaul Homework 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flami_000\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\flami_000\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
