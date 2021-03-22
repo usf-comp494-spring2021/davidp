@@ -8,6 +8,7 @@ namespace CalculatorLibUnitTests
      * A test program to use the functions in the calculator class
      * written by David Paul
      * 22 Feb 2021
+     * ammended 22 Mar 2021
      */
     public class UnitTest1
     {
@@ -67,6 +68,50 @@ namespace CalculatorLibUnitTests
 
             //Act
             double actual = calc.Divide(a, b);
+
+            //Assert
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void TestMedianEvenElements()
+        {
+            //Arrange
+            double[] a = { 4, 1, 2, 3 };
+            double expected = 2.5;
+            var calc = new Calculator();
+
+            //Act
+            double actual = calc.Median(a);
+
+            //Assert
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+
+        public void TestMedianOddElements()
+        {
+            //Arrange
+            double[] a = { 4, 1, 2 };
+            double expected = 2;
+            var calc = new Calculator();
+
+            //Act
+            double actual = calc.Median(a);
+
+            //Assert
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        
+        public void TestMean()
+        {
+            //Arrange
+            double[] a = {1, 2, 3, 5, 8, 17 };
+            double expected = 6;
+            var calc = new Calculator();
+
+            //Act
+            double actual = calc.Mean(a);
 
             //Assert
             Assert.Equal(expected, actual);

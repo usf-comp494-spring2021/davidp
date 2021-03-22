@@ -1,0 +1,2 @@
+The median of the input is: 13
+The mean of the input is: 27.864666666666665

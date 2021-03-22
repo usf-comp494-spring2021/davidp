@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace CalculatorLib
 {
@@ -44,6 +45,45 @@ namespace CalculatorLib
         public double Divide(double a, double b)
         {
             return (a / b);
+        }
+        /*
+        *param double[] a, an array to find the Median from
+        *return double the median of a
+        */
+        public double Median(double[] a)
+        {
+            double result;
+            int middle = a.Length / 2;
+            Array.Sort(a);
+
+            //in case array is even take average of the 2 middle position
+            if (middle % 2 == 0)
+            {
+                result = (a[middle] + a[middle - 1]) / 2;
+            }
+            //when odd, the middle term
+            else
+            {
+                result = a[middle];
+            }
+
+            return (result);
+        }
+        /*
+        *param double[] a, an array to find the mean from
+        *return double the mean of a
+        */
+        public double Mean(double[] a)
+        {
+            double result = 0;
+            //sum the terms of the array
+            for (int i = 0; i < a.Length; i++)
+            {
+                result += a[i];
+            }
+
+            //return sum divided by ammount of terms
+            return (result / a.Length);
         }
     }
 }
