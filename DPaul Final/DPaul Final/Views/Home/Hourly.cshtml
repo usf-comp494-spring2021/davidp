@@ -1,0 +1,25 @@
+﻿@model IEnumerable<HourlyForecast>
+<div class="text-center">
+    <h2>@ViewData["Title"]</h2>
+
+    @foreach (var item in Model)
+    {
+        <p>
+            <b>Forecast Date:</b> @Html.DisplayFor(modelItem => item.forecastDate)<br />
+            <b>Temperature:</b> @Html.DisplayFor(modelItem => item.temperature)<br />
+            <b>Feels Like:</b> @Html.DisplayFor(modelItem => item.feelsLike)<br />
+            <b>Descriptor:</b> @Html.DisplayFor(modelItem => item.descriptor)<br />
+            <b>Image path:</b> @Html.DisplayFor(modelItem => item.imagePath)<br />
+            <b>Wind speed:</b> @Html.DisplayFor(modelItem => item.windSpeed)<br />
+            <b>Wind direction:</b> @Html.DisplayFor(modelItem => item.windDirection)<br />
+            <b>Pressure:</b> @Html.DisplayFor(modelItem => item.pressure)<br />
+            <b>Percipitation:</b> @Html.DisplayFor(modelItem => item.percipitationPercent)<br />
+            <b>Percipitation amount:</b> @Html.DisplayFor(modelItem => item.percipitationAmount)<br />
+            <b>Cloud cover:</b> @Html.DisplayFor(modelItem => item.cloudCover)<br />
+            <b>Dew point:</b> @Html.DisplayFor(modelItem => item.dewPoint)<br />
+            <b>Humidity:</b> @Html.DisplayFor(modelItem => item.humidity)<br />
+        </p>
+
+
+    }
+</div>

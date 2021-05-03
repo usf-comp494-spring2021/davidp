@@ -1,0 +1,88 @@
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\appsettings.Development.json
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\appsettings.json
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\DPaul Final.StaticWebAssets.xml
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\DPaul Final.exe
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\DPaul Final.deps.json
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\DPaul Final.runtimeconfig.json
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\DPaul Final.runtimeconfig.dev.json
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\DPaul Final.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\ref\DPaul Final.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\DPaul Final.pdb
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\DPaul Final.Views.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\DPaul Final.Views.pdb
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Humanizer.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.csprojAssemblyReference.cache
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.GeneratedMSBuildEditorConfig.editorconfig
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.AssemblyInfoInputs.cache
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.AssemblyInfo.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.csproj.CoreCompileInputs.cache
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.MvcApplicationPartsAssemblyInfo.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.MvcApplicationPartsAssemblyInfo.cache
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.RazorAssemblyInfo.cache
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.RazorAssemblyInfo.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\staticwebassets\DPaul Final.StaticWebAssets.Manifest.cache
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\staticwebassets\DPaul Final.StaticWebAssets.xml
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\scopedcss\bundle\DPaul Final.styles.css
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.TagHelpers.input.cache
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.TagHelpers.output.cache
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.RazorCoreGenerate.cache
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.RazorTargetAssemblyInfo.cache
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.RazorTargetAssemblyInfo.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.Views.pdb
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.csproj.CopyComplete
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\ref\DPaul Final.dll
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.pdb
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\DPaul Final.genruntimeconfig.cache
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\Razor\Views\Home\Weather.cshtml.g.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\Razor\Views\Home\Hourly.cshtml.g.cs
+E:\1school\Comp classes\Comp 494A C#\git\DPaul Final\DPaul Final\obj\Debug\net5.0\Razor\Views\Home\Detailed.cshtml.g.cs
